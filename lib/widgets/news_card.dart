@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:football_news/screen/newslist_form.dart';
-import 'package:football_news/screen/menu.dart';
+import 'package:football_news/screens/newslist_form.dart';
+import 'package:football_news/screens/menu.dart';
 
 class ItemCard extends StatelessWidget {
   // Menampilkan kartu dengan ikon dan nama.
